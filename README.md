@@ -12,15 +12,19 @@
 
 ###
 
+<p align="left">🚀My portfolio : https://rahat-portfolio-websit.vercel.app</p>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning: Next.js<br>🎯 Goals: To become a full-stack developer and contribute to impactful projects<br>🎲 Fun fact: I debug faster than I solve a Rubik’s Cube (and I still can’t solve one 😄)</p>
+
+###
+
 <h3 align="left">🚀 About Me</h3>
 
 ###
 
 <p align="left">I’m a Frontend Web Developer passionate about building interactive, user-centered, and responsive web applications. My goal is to turn creative ideas into functional and visually appealing solutions using modern web technologies.</p>
-
-###
-
-<p align="left">✨ Creating bugs since 2022<br>📚 Currently learning: Next.js<br>🎯 Goals: To become a full-stack developer and contribute to impactful projects<br>🎲 Fun fact: I debug faster than I solve a Rubik’s Cube (and I still can’t solve one 😄)</p>
 
 ###
 
@@ -32,7 +36,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🌐I code with</h2>
 
 ###
 
@@ -56,6 +60,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
