@@ -73,11 +73,23 @@
 ###
 
 <div align="left">
-<a href="https://www.linkedin.com/in/al-amin-islam-rahat/" target="blank">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  /></a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/al-amin-islam-rahat/" target='_blank'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+    <img width="12" />
+  </a>
+
+  
+  <a href="" target='_blank'>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
+     <img width="12" />
+  </a>
+   
+  <a href="https://www.instagram.com/al_amin_islam_rahat/" target='_blank'>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  </a>
+ 
+
+
 </div>
 
 ###
